@@ -1,0 +1,26 @@
+{
+  "name": "async-ga",
+  "version": "1.0.0",
+  "description": "A genetic algorithm thing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benfoxall/async-ga.git"
+  },
+  "keywords": [
+    "Genetic",
+    "Algorithm",
+    "Promise",
+    "Async",
+    "GA"
+  ],
+  "author": "Ben Foxall (@benjaminbenben)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/benfoxall/async-ga/issues"
+  },
+  "homepage": "https://github.com/benfoxall/async-ga#readme"
+}
